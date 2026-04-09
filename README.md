@@ -1,10 +1,18 @@
-## Hi there 👋
+# Hi, I'm Anna 👋
+🎓 Computer Programming & Analysis Student  
+💻 Aspiring Software Developer / Data Analyst  
+📍 Florida  
 
-My name is Anna, I am a former hospitality and service professional transitioning into the tech industry.
+Welcome to my GitHub portfolio!
 
-I'm a student currently earning an A.S. in Computer Programming and Analysis at Valencia College, and a Graduate Pathway to Computing Certificate at USF. I'm hoping to transition to USF's Graduate degree in Computer Science.
+## 👩‍💻 About Me
+I'm transitioning from business and hospitality into tech.  
+I'm currently studying Computer Programming and Analysis and building skills in:
 
-I have knowledge in Python, Java, SQL, HTML, and CSS.
+- Java / Spring Boot
+- SQL / Databases
+- React
+- Data Analysis
 
-I'm currently learning React and working on building my portfolio website.
+I'm interested in backend development, data analytics, and business technology solutions.
 
